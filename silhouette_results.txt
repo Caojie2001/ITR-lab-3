@@ -1,0 +1,68 @@
+(Raw) For k=20, the Silhouette Score is 0.010794160399288513
+
+Silhouette Scores for K values from 2 to 20:
+K=2: Silhouette Score = 0.023725710376396984
+K=3: Silhouette Score = 0.014685418554985775
+K=4: Silhouette Score = 0.009113494631374008
+K=5: Silhouette Score = 0.01882571256523644
+K=6: Silhouette Score = 0.006071396475589884
+K=7: Silhouette Score = 0.015852541804819483
+K=8: Silhouette Score = 0.020506201674085473
+K=9: Silhouette Score = 0.02225155479046852
+K=10: Silhouette Score = 0.015317861868311078
+K=11: Silhouette Score = 0.016621608922667525
+K=12: Silhouette Score = 0.0035294017884279017
+K=13: Silhouette Score = 0.016698197940964214
+K=14: Silhouette Score = 0.021793744742506362
+K=15: Silhouette Score = 0.018141599311827614
+K=16: Silhouette Score = 0.02263767316800425
+K=17: Silhouette Score = 0.0195155868581668
+K=18: Silhouette Score = 0.01904560239550312
+K=19: Silhouette Score = 0.009254014541287433
+K=20: Silhouette Score = 0.010794160399288513
+
+(PCA) For k=20, the Silhouette Score is 0.0895720282527839
+
+Silhouette Scores for K values from 2 to 20:
+K=2: Silhouette Score = 0.21154791156330274
+K=3: Silhouette Score = 0.18371103120392637
+K=4: Silhouette Score = 0.06848688173987533
+K=5: Silhouette Score = 0.08203939756857766
+K=6: Silhouette Score = 0.08324854879450798
+K=7: Silhouette Score = 0.01918316986236837
+K=8: Silhouette Score = 0.031709854414491444
+K=9: Silhouette Score = 0.04052597682462087
+K=10: Silhouette Score = 0.05953442158180079
+K=11: Silhouette Score = 0.06683384591382165
+K=12: Silhouette Score = 0.048604425368176114
+K=13: Silhouette Score = 0.07798747368169247
+K=14: Silhouette Score = 0.05764573670021865
+K=15: Silhouette Score = 0.06195550728502558
+K=16: Silhouette Score = 0.06794118467230052
+K=17: Silhouette Score = 0.06973114426949721
+K=18: Silhouette Score = 0.071301599506815
+K=19: Silhouette Score = 0.08795432312537763
+K=20: Silhouette Score = 0.0895720282527839
+
+(SVD) For k=20, the Silhouette Score is -0.09066334464558248
+
+Silhouette Scores for K values from 2 to 20:
+K=2: Silhouette Score = 0.10846095520823179
+K=3: Silhouette Score = 0.11742891216981881
+K=4: Silhouette Score = 0.027618463794956118
+K=5: Silhouette Score = 0.021141459278686495
+K=6: Silhouette Score = 0.007243767772614702
+K=7: Silhouette Score = -0.15683045446236082
+K=8: Silhouette Score = -0.12840355040771842
+K=9: Silhouette Score = -0.1063493268195806
+K=10: Silhouette Score = -0.10517402030195254
+K=11: Silhouette Score = -0.11031964105825152
+K=12: Silhouette Score = -0.11436912637261856
+K=13: Silhouette Score = -0.07451625373992071
+K=14: Silhouette Score = -0.04122291142015165
+K=15: Silhouette Score = -0.03591176027546683
+K=16: Silhouette Score = -0.11522254602047513
+K=17: Silhouette Score = 0.019727245769844956
+K=18: Silhouette Score = -0.1298844565912066
+K=19: Silhouette Score = -0.08360789398805693
+K=20: Silhouette Score = -0.09066334464558248
